@@ -1,0 +1,4 @@
+tata 200 20
+birla 300 40
+adani 100 300
+tatamotor 300 300
